@@ -3,7 +3,8 @@
 ## Installation
 
 ### Julia
-
+[Download and install Julia](https://julialang.org/downloads/)
+[Julia Box like Jupyter notebook](https://juliabox.com/)
 
 ### Atom
 1. package, include Julia, Juno
